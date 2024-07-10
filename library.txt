@@ -1,2 +1,4 @@
 ultralytics 
-supervision==0.2.1
+supervision
+opencv-python
+numpy
